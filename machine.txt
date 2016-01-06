@@ -3,3 +3,5 @@ Machine learning is a subfield of computer science[1] that evolved from the stud
 Machine learning is closely related to computational statistics; a discipline that aims at the design of algorithms for implementing statistical methods on computers. It has strong ties to mathematical optimization, which delivers methods, theory and application domains to the field. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms is infeasible. Example applications include spam filtering, optical character recognition (OCR),[4] search engines and computer vision. Machine learning is sometimes conflated with data mining,[5] although that focuses more on exploratory data analysis.[6] Machine learning and pattern recognition "can be viewed as two facets of the same field."[3]:vii
 
 When employed in industrial contexts, machine learning methods may be referred to as predictive analytics or predictive modelling.
+
+hi
